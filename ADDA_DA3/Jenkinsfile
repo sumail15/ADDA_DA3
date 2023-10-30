@@ -11,5 +11,5 @@ pipeline {
                 bat 'start mvn clean package'
             }
 }
-}
+ }
 }
